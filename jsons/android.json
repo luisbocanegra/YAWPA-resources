@@ -1,14 +1,16 @@
 {
-"android":
-  [
-    {
-        "url": "SAMPLE URL"
-    },
-    {
-        "url": "SAMPLE URL"
-    },
-    {
-        "url": "SAMPLE URL"
-    }
-  ]
+   "android":[
+      {
+         "url":"FULL_IMAGE_URL",
+         "thumb":"THUMBNAIL_URL"
+      },
+      {
+         "url":"FULL_IMAGE_URL",
+         "thumb":"THUMBNAIL_URL"
+      },
+      {
+         "url":"FULL_IMAGE_URL",
+         "thumb":"THUMBNAIL_URL"
+      }
+   ]
 }
