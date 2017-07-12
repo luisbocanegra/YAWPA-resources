@@ -10,7 +10,9 @@ To contribute to YAWPA, please follow the following
 
 - Upload your wallpapers to either Imgur or some where that allows direct links. 
 
-- Create as many url slots as you need then replace SAMPLE URL in "url": "SAMPLE URL" with your own
+- Create as many url slots as you need then replace FULL_IMAGE_URL in "url": "FULL_IMAGE_URL" with your own
+
+- You also need to create a thumbnail for your images.The smaller the better.
 
 - Submit a pull request and wait for approval
 
