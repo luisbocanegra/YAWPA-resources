@@ -1,14 +1,16 @@
 {
-"sample_json":
-  [
-    {
-        "url": "SAMPLE URL"
-    },
-    {
-        "url": "SAMPLE URL"
-    },
-    {
-        "url": "SAMPLE URL"
-    }
-  ]
+   "sample_json":[
+      {
+         "url":"FULL_IMAGE_URL",
+         "thumb":"THUMBNAIL_URL"
+      },
+      {
+         "url":"FULL_IMAGE_URL",
+         "thumb":"THUMBNAIL_URL"
+      },
+      {
+         "url":"FULL_IMAGE_URL",
+         "thumb":"THUMBNAIL_URL"
+      }
+   ]
 }
