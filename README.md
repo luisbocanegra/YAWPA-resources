@@ -12,7 +12,7 @@ To contribute to YAWPA, please follow the following
 
 - Create as many url slots as you need then replace FULL_IMAGE_URL in "url": "FULL_IMAGE_URL" with your own
 
-- You also need to create a thumbnail for your images.The smaller the better.
+- Create a thumbnail for your images.The smaller the better. (Optional, leave the thumburl if you decide against it)
 
 - Submit a pull request and wait for approval
 
@@ -24,6 +24,11 @@ To contribute to YAWPA, please follow the following
 - Use direct links ONLY. This is VERY important!
 
 - DO NOT use dropbox or risk having your account suspended due to traffic (their policy afaik)
+
+
+# TIPS
+
+- To format your json to match what others looks like, use this site https://jsonformatter.curiousconcept.com
 
 
 
