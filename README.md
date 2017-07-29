@@ -4,31 +4,21 @@ To contribute to YAWPA, please follow the following
 
 - Submit a 1024x768 banner to display for your section, under https://github.com/Mazda--/YAWPA-resources/blob/master/images
 
-- Create a json using the sample found here https://github.com/Mazda--/YAWPA-resources/blob/master/jsons/sample.json
+- Upload your wallpapers using the YAWPA automator https://yawpa.jmzsoft.com/
 
-- Replace "sample_json" with whatever you want to call your walls, something like "dope_walls" works
+- Copy/paste the json that's generated
 
-- Upload your wallpapers to either Imgur or some where that allows direct links. 
-
-- Create as many url slots as you need then replace FULL_IMAGE_URL in "url": "FULL_IMAGE_URL" with your own
-
-- Create a thumbnail for your images.The smaller the better. (Optional, leave the thumburl if you decide against it)
-
-- Submit a pull request and wait for approval
+- Submit a pull request with the json and banner then wait for approval
 
 
 # NOTES
 
-- Make sure the last url slot does not have a comma with the bracket
-
-- Use direct links ONLY. This is VERY important!
-
-- DO NOT use dropbox or risk having your account suspended due to traffic (their policy afaik)
+- If you decide against using the YAWPA automator, DO NOT use dropbox or risk having your account suspended due to traffic (their policy afaik)
 
 
 # TIPS
 
-- To format your json to match what others looks like, use this site https://jsonformatter.curiousconcept.com
+- If you decide against using the YAWPA automator, format your json to match what others looks like, use this site https://jsonformatter.curiousconcept.com
 
 
 
