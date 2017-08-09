@@ -13,15 +13,15 @@
     <string name="slide_two_title">Wi-Fi>Mobile</string>
     <string name="slide_two_alt_title">Wi-Fi FTW!</string>
     <string name="slide_two_summary">Mobile data is much slower than Wi-Fi.\nTurning Wi-Fi on will enhance your experience.</string>
-    <string name="slide_two_alt_summary">Glad to see you\'re on WiFi!</string>
-    <string name="slide_two_button">Turn WiFi On</string>
+    <string name="slide_two_alt_summary">Glad to see you\'re on Wi-Fi!</string>
+    <string name="slide_two_button">Turn Wi-Fi On</string>
     <string name="slide_three_title">Permission needed</string>
     <string name="slide_three_alt_title">That\'s it!</string>
     <string name="slide_three_summary">Storage permission is required to be able to save wallpapers</string>
     <string name="slide_three_alt_summary">We hope you enjoy the app as much as we do!</string>
     <string name="slide_three_button">Grant permission</string>
-    <string name="enabling_wifi_toast">Enabling WiFi…</string>
-    <string name="wifi_on_toast">WiFi is turned on</string>
+    <string name="enabling_wifi_toast">Enabling Wi-Fi…</string>
+    <string name="wifi_on_toast">Wi-Fi is turned on</string>
     <string name="permissions_warning_toast">Permission needed before you can gain access…</string>
 
     <!-- Wallpaper categories -->
