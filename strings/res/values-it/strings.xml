@@ -2,7 +2,6 @@
 <resources>
 
     <!-- General -->
-    <string name="app_name" translatable="false">YAWPA</string>
     <string name="bottom_nav_wallpapers">Sfondi</string>
     <string name="bottom_nav_about">Info</string>
     <string name="random_wall_title">Sfondo casuale</string>
@@ -13,29 +12,26 @@
     <string name="slide_two_title">Wi-Fi>Mobile</string>
     <string name="slide_two_alt_title">Wi-Fi FTW!</string>
     <string name="slide_two_summary">La connessione mobile è molto più lenta del Wi-Fi.\nAccendere il Wi-Fi migliorerà la tua esperienza.</string>
-    <string name="slide_two_alt_summary">Felice di vedere che sei su WiFi!</string>
-    <string name="slide_two_button">Accendi WiFi</string>
+    <string name="slide_two_alt_summary">Felice di vedere che sei su Wi-Fi!</string>
+    <string name="slide_two_button">Accendi Wi-Fi</string>
     <string name="slide_three_title">Richiesta autorizzazione</string>
     <string name="slide_three_alt_title">Ecco fatto!</string>
     <string name="slide_three_summary">Autorizzare l\'archiviazione per poter salvare gli sfondi</string>
     <string name="slide_three_alt_summary">Speriamo possa goderti l\'app tanto quanto noi!</string>
     <string name="slide_three_button">Autorizza</string>
-    <string name="enabling_wifi_toast">Accensione WiFi…</string>
-    <string name="wifi_on_toast">Il WiFi è acceso</string>
+    <string name="enabling_wifi_toast">Accensione Wi-Fi…</string>
+    <string name="wifi_on_toast">Il Wi-Fi è acceso</string>
     <string name="permissions_warning_toast">Autorizzazione necessaria per poter accedere…</string>
 
     <!-- Wallpaper categories -->
-    <string name="walls_alex_title" translatable="false">Alex</string>
     <string name="walls_alex_summary">Una raccolta di sfondi originali da Alex Cruz</string>
     <string name="walls_abstract_title">Astratti</string>
     <string name="walls_abstract_summary">Una raccolta di sfondi astratti</string>
-    <string name="walls_android_title" translatable="false">Android</string>
     <string name="walls_android_summary">Una raccolta di sfondi Android dai fan</string>
     <string name="walls_beach_title">Spiaggia</string>
     <string name="walls_beach_summary">Una raccolta di sfondi da spiaggia</string>
     <string name="walls_black_and_white_title">Bianco / Nero</string>
     <string name="walls_black_and_white_summary">Una raccolta di sfondi in bianco e nero</string>
-    <string name="walls_chr1ds_title" translatable="false">Chr1ds</string>
     <string name="walls_chr1ds_summary">Una raccolta di sfondi da Christian Wölfel</string>
     <string name="walls_colors_title">Colori</string>
     <string name="walls_colors_summary">Bellissime tinte uniche</string>
@@ -43,29 +39,18 @@
     <string name="walls_community_summary">Una raccolta di sfondi casuali dalla comunità</string>
     <string name="walls_darkside_title">Lato oscuro</string>
     <string name="walls_darkside_summary">Una raccolta di sfondi da JayRod</string>
-    <string name="walls_darkside_aosip_title" translatable="false">AOSiP</string>
     <string name="walls_darkside_aosip_summary">Una raccolta di sfondi AOSiP</string>
-    <string name="walls_darkside_du_title" translatable="false">Dirty Unicorns</string>
     <string name="walls_darkside_du_summary">Una raccolta di sfondi DU</string>
-    <string name="walls_darkside_gzr_title" translatable="false">Ground Zero Roms</string>
     <string name="walls_darkside_gzr_summary">Una raccolta di sfondi GZR</string>
-    <string name="walls_darkside_pn_title" translatable="false">Pure Nexus</string>
     <string name="walls_darkside_pn_summary">Una raccolta di sfondi PN</string>
-    <string name="walls_debtman_title" translatable="false">Debtman</string>
     <string name="walls_debtman_summary">Una raccolta di sfondi da Alex Tsanis</string>
-    <string name="walls_ezio_title" translatable="false">Ezio</string>
     <string name="walls_ezio_summary">Una raccolta di sfondi da Ezio Lacandia Bijelkic</string>
-    <string name="walls_llevo3_title" translatable="false">llevo3</string>
     <string name="walls_llevo3_summary">Una raccolta di sfondi da De Jan</string>
-    <string name="walls_mojurasu_title" translatable="false">Mojurasu</string>
     <string name="walls_mojurasu_summary">Una raccolta di sfondi da Simon Schürrle</string>
-    <string name="walls_mojurasu_du_title" translatable="false">Dirty Unicorns</string>
     <string name="walls_mojurasu_du_summary">Una raccolta di sfondi DU</string>
     <string name="walls_mojurasu_photography_title">Fotografia</string>
     <string name="walls_mojurasu_photography_summary">Una raccolta di foto d\'alta qualità</string>
-    <string name="walls_nick_title" translatable="false">Nick</string>
     <string name="walls_nick_summary">Una raccolta di sfondi da Nick Doherty</string>
-    <string name="walls_paul_title" translatable="false">Paul</string>
     <string name="walls_paul_summary">Una raccolta di sfondi da Paul Clark</string>
     <string name="walls_planes_title">Aerei</string>
     <string name="walls_planes_summary">Una raccolta di sfondi d\'aerei</string>
@@ -113,7 +98,7 @@
     <string name="notification_sound_title">Tono di notifica</string>
     <string name="notification_sound_summary">Attiva/disattiva suono di notifica per i nuovi sfondi</string>
     <string name="qs_filter_title">Filtro</string>
-    <string name="qs_filter_summary">Seleziona un filtro per lo sfondo impostato dal tile QS</string>
+    <string name="qs_filter_summary">Seleziona un filtro per lo sfondo impostato dalla tile QS</string>
     <string name="qs_filter_normal">Normale</string>
     <string name="qs_filter_bw">Bianco/Nero</string>
     <string name="qs_filter_inverted">Invertito</string>
@@ -121,7 +106,7 @@
     <string name="qs_location_title">Posizione</string>
     <string name="qs_location_summary">Seleziona in quale posizione impostare lo sfondo</string>
     <string name="qs_location_homescreen">Schermata home</string>
-    <string name="qs_location_lockscreen">Schermata di blocco</string>
+    <string name="qs_location_lockscreen">Schermata di sblocco</string>
     <string name="qs_location_both">Entrambe</string>
     <string name="categories">Categorie</string>
     <string name="select_categories_title">Seleziona categorie</string>
@@ -143,7 +128,7 @@
     <string name="blur_heavy">Pesante</string>
     <string name="apply_wallpaper_title">Selezione dove impostare lo sfondo</string>
     <string name="apply_wallpaper_homescreen">Schermata home</string>
-    <string name="apply_wallpaper_lockscreen">Schermata di blocco</string>
+    <string name="apply_wallpaper_lockscreen">Schermata di sblocco</string>
     <string name="apply_wallpaper_both">Entrambe</string>
     <string name="submit_wallpaper_dialog_title">Accordo d'invio</string>
     <string name="submit_wallpaper_dialog_message_one">Dichiari di essere d\'accordo che il materiale da te inviato per la pubblicazione in questa applicazione, rispettarà i seguenti termini:</string>
@@ -152,7 +137,7 @@
     <string name="submit_wallpaper_dialog_message_four">(iii) ci riserviamo il diritto di non pubblicare il materiale inviato e di apportare modifiche al materiale, prima della pubblicazione;</string>
     <string name="submit_wallpaper_dialog_message_five">(iv) ci riserviamo il diritto di rimuovere e/o eliminare il materiale da te inviato senza notifica;</string>
     <string name="submit_wallpaper_dialog_deny">Non importa</string>
-    <string name="submit_wallpaper_dialog_approve">Sono d'accordo con questi termini</string>
+    <string name="submit_wallpaper_dialog_approve">Sono d\'accordo con questi termini</string>
 
     <!-- Snackbar messages -->
     <string name="no_connection">Per favore controlla la tua connessione ad internet</string>
