@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- General -->
+    <string name="app_name" translatable="false">YAWPA</string>
+    <string name="bottom_nav_wallpapers">Sfondi</string>
+    <string name="bottom_nav_about">Info</string>
+    <string name="random_wall_title">Sfondo casuale</string>
+    <string name="select_categories_string" translatable="false">select_categories</string>
+
+    <!-- Slides -->
+    <string name="slide_one_summary">Perchè ce n\'era bisogno :-)</string>
+    <string name="slide_two_title">Wi-Fi>Mobile</string>
+    <string name="slide_two_alt_title">Wi-Fi FTW!</string>
+    <string name="slide_two_summary">La connessione mobile è molto più lenta del Wi-Fi.\nAccendere il Wi-Fi migliorerà la tua esperienza.</string>
+    <string name="slide_two_alt_summary">Felice di vedere che sei su WiFi!</string>
+    <string name="slide_two_button">Accendi WiFi</string>
+    <string name="slide_three_title">Richiesta autorizzazione</string>
+    <string name="slide_three_alt_title">Ecco fatto!</string>
+    <string name="slide_three_summary">Autorizzare l\'archiviazione per poter salvare gli sfondi</string>
+    <string name="slide_three_alt_summary">Speriamo possa goderti l\'app tanto quanto noi!</string>
+    <string name="slide_three_button">Autorizza</string>
+    <string name="enabling_wifi_toast">Accensione WiFi…</string>
+    <string name="wifi_on_toast">Il WiFi è acceso</string>
+    <string name="permissions_warning_toast">Autorizzazione necessaria per poter accedere…</string>
+
+    <!-- Wallpaper categories -->
+    <string name="walls_alex_title" translatable="false">Alex</string>
+    <string name="walls_alex_summary">Una raccolta di sfondi originali da Alex Cruz</string>
+    <string name="walls_abstract_title">Astratti</string>
+    <string name="walls_abstract_summary">Una raccolta di sfondi astratti</string>
+    <string name="walls_android_title" translatable="false">Android</string>
+    <string name="walls_android_summary">Una raccolta di sfondi Android dai fan</string>
+    <string name="walls_beach_title">Spiaggia</string>
+    <string name="walls_beach_summary">Una raccolta di sfondi da spiaggia</string>
+    <string name="walls_black_and_white_title">Bianco / Nero</string>
+    <string name="walls_black_and_white_summary">Una raccolta di sfondi in bianco e nero</string>
+    <string name="walls_chr1ds_title" translatable="false">Chr1ds</string>
+    <string name="walls_chr1ds_summary">Una raccolta di sfondi da Christian Wölfel</string>
+    <string name="walls_colors_title">Colori</string>
+    <string name="walls_colors_summary">Bellissime tinte uniche</string>
+    <string name="walls_community_title">Comunità</string>
+    <string name="walls_community_summary">Una raccolta di sfondi casuali dalla comunità</string>
+    <string name="walls_darkside_title">Lato oscuro</string>
+    <string name="walls_darkside_summary">Una raccolta di sfondi da JayRod</string>
+    <string name="walls_darkside_aosip_title" translatable="false">AOSiP</string>
+    <string name="walls_darkside_aosip_summary">Una raccolta di sfondi AOSiP</string>
+    <string name="walls_darkside_du_title" translatable="false">Dirty Unicorns</string>
+    <string name="walls_darkside_du_summary">Una raccolta di sfondi DU</string>
+    <string name="walls_darkside_gzr_title" translatable="false">Ground Zero Roms</string>
+    <string name="walls_darkside_gzr_summary">Una raccolta di sfondi GZR</string>
+    <string name="walls_darkside_pn_title" translatable="false">Pure Nexus</string>
+    <string name="walls_darkside_pn_summary">Una raccolta di sfondi PN</string>
+    <string name="walls_debtman_title" translatable="false">Debtman</string>
+    <string name="walls_debtman_summary">Una raccolta di sfondi da Alex Tsanis</string>
+    <string name="walls_ezio_title" translatable="false">Ezio</string>
+    <string name="walls_ezio_summary">Una raccolta di sfondi da Ezio Lacandia Bijelkic</string>
+    <string name="walls_llevo3_title" translatable="false">llevo3</string>
+    <string name="walls_llevo3_summary">Una raccolta di sfondi da De Jan</string>
+    <string name="walls_mojurasu_title" translatable="false">Mojurasu</string>
+    <string name="walls_mojurasu_summary">Una raccolta di sfondi da Simon Schürrle</string>
+    <string name="walls_mojurasu_du_title" translatable="false">Dirty Unicorns</string>
+    <string name="walls_mojurasu_du_summary">Una raccolta di sfondi DU</string>
+    <string name="walls_mojurasu_photography_title">Fotografia</string>
+    <string name="walls_mojurasu_photography_summary">Una raccolta di foto d\'alta qualità</string>
+    <string name="walls_nick_title" translatable="false">Nick</string>
+    <string name="walls_nick_summary">Una raccolta di sfondi da Nick Doherty</string>
+    <string name="walls_paul_title" translatable="false">Paul</string>
+    <string name="walls_paul_summary">Una raccolta di sfondi da Paul Clark</string>
+    <string name="walls_planes_title">Aerei</string>
+    <string name="walls_planes_summary">Una raccolta di sfondi d\'aerei</string>
+    <string name="walls_stars_title">Stelle</string>
+    <string name="walls_stars_summary">Una raccolta di sfondi di stelle</string>
+
+    <!-- Wallpaper panel -->
+    <string name="wallpaper_panel_save">Salva</string>
+    <string name="wallpaper_panel_invert">Inverti</string>
+    <string name="wallpaper_panel_bw">B/N</string>
+    <string name="wallpaper_panel_blur">Sfoca</string>
+    <string name="wallpaper_panel_original">Originale</string>
+
+    <!-- About -->
+    <string name="contributor_title">Collaboratori</string>
+    <string name="libraries_title">Librerie</string>
+    <string name="about_title">Info</string>
+    <string name="about_message_one">Creata da Alex Cruz, fondatore di</string>
+    <string name="about_message_two">YAWPA (Yet Another WallPaper App) è un\'app sviluppata e ideata da zero per fornire agli utenti un modo facile e veloce per avere alcuni dei migliori sfondi dalla comunità Android. Niente pubblicità o interfaccia complicata. Solo meravigliosi sfondi e opzioni!</string>
+    <string name="about_wallpaper_submission_message_one">Siamo sempre alla ricerca di collaboratori. Chiediamo che i nuovi collaboratori comincino da</string>
+    <string name="about_wallpaper_submission_message_two">Se vuoi contribuire alle categorie esistenti, puoi inviare sfondi attraverso il nostro modulo IAR.</string>
+    <string name="about_wallpaper_submission_message_three">Se hai bisogno d'aiuto nel creare un json per i tuoi sfondi, puoi dare un\'occhiata a</string>
+    <string name="about_wallpaper_submission_message_four">Facile e veloce!</string>
+
+    <!-- Settings -->
+    <string name="settings_title">Impostazioni</string>
+    <string name="notifications_category_title">Notifiche</string>
+    <string name="wallpaper_chooser_category_title">Scegli sfondo</string>
+    <string name="qs_tile_category_title">Tile QS</string>
+    <string name="version_title">Versione</string>
+    <string name="version_not_available">non disponibile</string>
+    <string name="grid_changer_title">Cambia griglia</string>
+    <string name="grid_changer_summary">Seleziona come mostrare gli sfondi</string>
+    <string name="grid_changer_one">1 in verticale — 2 in orizzontale</string>
+    <string name="grid_changer_two">2 in verticale — 3 in orizzontale</string>
+    <string name="grid_changer_three">3 in verticale — 4 in orizzontale</string>
+    <string name="thumbnail_quality_title">Qualità miniature</string>
+    <string name="thumbnail_quality_summary">Selezione la qualità delle miniature</string>
+    <string name="thumbnail_quality_low">Bassa</string>
+    <string name="thumbnail_quality_normal">Normale</string>
+    <string name="thumbnail_quality_high">Alta</string>
+    <string name="thumbnail_note">Per caricare gli sfondi serve una connessione ad internet. Sfortunatamente per alcuni, non tutte le connessioni sono create uguali e questo può causare un caricamento lento degli sfondi. Se la tua connessione è lenta usa la qualità bassa per caricare più velocemente le miniature/anteprime.</string>
+    <string name="notifications_title">Notifiche push</string>
+    <string name="notifications_summary">Metodo rapido e semplice per rinunciare alle notifiche</string>
+    <string name="notification_sound_title">Tono di notifica</string>
+    <string name="notification_sound_summary">Attiva/disattiva suono di notifica per i nuovi sfondi</string>
+    <string name="qs_filter_title">Filtro</string>
+    <string name="qs_filter_summary">Seleziona un filtro per lo sfondo impostato dal tile QS</string>
+    <string name="qs_filter_normal">Normale</string>
+    <string name="qs_filter_bw">Bianco/Nero</string>
+    <string name="qs_filter_inverted">Invertito</string>
+    <string name="qs_filter_blur">Sfocato</string>
+    <string name="qs_location_title">Posizione</string>
+    <string name="qs_location_summary">Seleziona in quale posizione impostare lo sfondo</string>
+    <string name="qs_location_homescreen">Schermata home</string>
+    <string name="qs_location_lockscreen">Schermata di blocco</string>
+    <string name="qs_location_both">Entrambe</string>
+    <string name="categories">Categorie</string>
+    <string name="select_categories_title">Seleziona categorie</string>
+    <string name="select_categories_summary">Aggiungi o rimuovi le categorie da visualizzare</string>
+
+    <!-- Submit wallpapers -->
+    <string name="submit_wallpaper_button_title">Inviare sfondo</string>
+    <string name="submit_wallpaper_title">Invia sfondo</string>
+    <string name="submit_wallpaper_hint_title">Tuo nome</string>
+    <string name="send_email_title">Manda email</string>
+    <string name="send_email_submitted_by">Sfondo inviato da:</string>
+    <string name="send_email_wallpaper_category">Categoria sfondo:</string>
+    <string name="pick_wallpaper_category">Scegli una categoria per lo sfondo</string>
+
+    <!-- Dialogs -->
+    <string name="dialog_close">Chiudi</string>
+    <string name="blur_level_title">Seleziona livello sfocatura</string>
+    <string name="blur_light">Leggero</string>
+    <string name="blur_heavy">Pesante</string>
+    <string name="apply_wallpaper_title">Selezione dove impostare lo sfondo</string>
+    <string name="apply_wallpaper_homescreen">Schermata home</string>
+    <string name="apply_wallpaper_lockscreen">Schermata di blocco</string>
+    <string name="apply_wallpaper_both">Entrambe</string>
+    <string name="submit_wallpaper_dialog_title">Accordo d'invio</string>
+    <string name="submit_wallpaper_dialog_message_one">Dichiari di essere d\'accordo che il materiale da te inviato per la pubblicazione in questa applicazione, rispettarà i seguenti termini:</string>
+    <string name="submit_wallpaper_dialog_message_two">(i) non invierai materiale offensivo, abusivo, indecente, diffamatorio, osceno;</string>
+    <string name="submit_wallpaper_dialog_message_three">(ii) non invierai materiale che vìola i diritti sulla proprietà intellettuale di terze parti o contravviene ad obblighi di confidenzialità ai quali sei legato - tutto il materiale deve essere di tua proprietà o da te creato;</string>
+    <string name="submit_wallpaper_dialog_message_four">(iii) ci riserviamo il diritto di non pubblicare il materiale inviato e di apportare modifiche al materiale, prima della pubblicazione;</string>
+    <string name="submit_wallpaper_dialog_message_five">(iv) ci riserviamo il diritto di rimuovere e/o eliminare il materiale da te inviato senza notifica;</string>
+    <string name="submit_wallpaper_dialog_deny">Non importa</string>
+    <string name="submit_wallpaper_dialog_approve">Sono d'accordo con questi termini</string>
+
+    <!-- Snackbar messages -->
+    <string name="no_connection">Per favore controlla la tua connessione ad internet</string>
+    <string name="please_wait">Attendere prego…</string>
+    <string name="downloading_wallpaper">Scarico…</string>
+    <string name="preparing_wallpaper">Preparazione sfondo</string>
+    <string name="applying_wallpaper">Imposto lo sfondo…</string>
+    <string name="saved_wallpaper">Sfondo salvato!</string>
+    <string name="applied_wallpaper">Sfondo impostato!</string>
+    <string name="applied_solid_color_wallpaper">Tinta unica impostata come sfondo!</string>
+    <string name="no_browser_installed">Operazione non riuscita. Installare un browser.</string>
+    <string name="fill_out_all_fields">Per favore riempi tutti i campi correttamente</string>
+    <string name="cancelling">Annullo…</string>
+    <string name="folder_created">Cartella \'YAWPA\' creata</string>
+    <string name="push_notifications_no_gms">Notifiche push disattivate perchè i servizi Google non sono installati.</string>
+    <string name="push_notifications_no_gms_dismiss">Rimuovi</string>
+
+    <!-- Wallpaper hints -->
+    <string name="bw_hint_title">Rende lo sfondo in bianco e nero!</string>
+    <string name="bw_hint_summary">Nessun bisogno di app aggiuntive, clicca e goditelo!</string>
+    <string name="blur_hint_title">Sfoca lo sfondo</string>
+    <string name="blur_hint_summary">Nessun bisogno di app aggiuntive, clicca e goditelo!!</string>
+    <string name="save_hint_title">Salva lo sfondo</string>
+    <string name="save_hint_summary">Tranquillo, non ci importa se condividi i nostri sfondi con i tuoi amici :-)</string>
+    <string name="apply_hint_title">Imposta lo sfondo</string>
+    <string name="apply_hint_summary">Imposta lo sfondo originale con precisione!</string>
+    <string name="invert_hint_title">Inverti lo sfondo</string>
+    <string name="invert_hint_summary">Inverti il tuo sfondo per avere quell\'aspetto strano!</string>
+
+    <!-- No connection screen -->
+    <string name="no_connection_title">Oops, problema di connessione</string>
+    <string name="no_connection_summary">Per favore controlla se sei collegato</string>
+
+    <!-- Empty screen -->
+    <string name="empty_screen_title">Tutte le categorie sono state rimosse</string>
+    <string name="empty_screen_summary">Vai alle impostazioni per aggiungerne qualcuna</string>
+
+</resources>
