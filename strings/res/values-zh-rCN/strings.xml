@@ -20,8 +20,8 @@
     <string name="slide_three_summary">需要存储权限才能够储存壁纸</string>
     <string name="slide_three_alt_summary">我们希望您尽可能多地喜欢该应用程序!</string>
     <string name="slide_three_button">授予权限</string>
-    <string name="enabling_wifi_toast">正在打开WiFi…</string>
-    <string name="wifi_on_toast">WiFi已打开</string>
+    <string name="enabling_wifi_toast">正在打开Wi-Fi…</string>
+    <string name="wifi_on_toast">Wi-Fi已打开</string>
     <string name="permissions_warning_toast">在你获得许可之前需要权限…</string>
 
     <!-- Wallpaper categories -->
@@ -41,7 +41,7 @@
     <string name="walls_colors_summary">漂亮的纯色</string>
     <string name="walls_community_title">社区</string>
     <string name="walls_community_summary">一些来自社区的随机壁纸</string>
-    <string name="walls_darkside_title">Darkside</string>
+    <string name="walls_darkside_title">黑暗面</string>
     <string name="walls_darkside_summary">一些由JayRod收集的壁纸</string>
     <string name="walls_darkside_aosip_title" translatable="false">AOSiP</string>
     <string name="walls_darkside_aosip_summary">一些AOSiP壁纸</string>
@@ -54,28 +54,28 @@
     <string name="walls_debtman_title" translatable="false">Debtman</string>
     <string name="walls_debtman_summary">一些由Alex Tsanis收集的壁纸</string>
     <string name="walls_ezio_title" translatable="false">Ezio</string>
-    <string name="walls_ezio_summary">一些由Ezio Lacandia Bijelkic</string>
+    <string name="walls_ezio_summary">一些由Ezio Lacandia Bijelkic收集的壁纸</string>
     <string name="walls_llevo3_title" translatable="false">llevo3</string>
-    <string name="walls_llevo3_summary">A collection of walls by De Jan</string>
+    <string name="walls_llevo3_summary">一些由De Jan收集的壁纸</string>
     <string name="walls_mojurasu_title" translatable="false">Mojurasu</string>
-    <string name="walls_mojurasu_summary">A collection of walls by Simon Schürrle</string>
+    <string name="walls_mojurasu_summary">一些由Simon Schürrle收集的壁纸</string>
     <string name="walls_mojurasu_du_title" translatable="false">Dirty Unicorns</string>
-    <string name="walls_mojurasu_du_summary">A collection of DU wallpapers</string>
-    <string name="walls_mojurasu_photography_title">Photography</string>
-    <string name="walls_mojurasu_photography_summary">A collection of high quality photos</string>
+    <string name="walls_mojurasu_du_summary">一些DU壁纸</string>
+    <string name="walls_mojurasu_photography_title">摄影</string>
+    <string name="walls_mojurasu_photography_summary">一些高质照片</string>
     <string name="walls_nick_title" translatable="false">Nick</string>
-    <string name="walls_nick_summary">A collection of walls by Nick Doherty</string>
+    <string name="walls_nick_summary">一些由Nick Doherty收集的壁纸</string>
     <string name="walls_paul_title" translatable="false">Paul</string>
-    <string name="walls_paul_summary">A collection of walls by Paul Clark</string>
-    <string name="walls_planes_title">Planes</string>
-    <string name="walls_planes_summary">A collection of airplane walls</string>
-    <string name="walls_stars_title">Stars</string>
-    <string name="walls_stars_summary">A collection of stars walls</string>
+    <string name="walls_paul_summary">一些由Paul Clark收集的壁纸</string>
+    <string name="walls_planes_title">飞机</string>
+    <string name="walls_planes_summary">一些飞机壁纸</string>
+    <string name="walls_stars_title">明星</string>
+    <string name="walls_stars_summary">一些明星壁纸</string>
 
     <!-- Wallpaper panel -->
     <string name="wallpaper_panel_save">保存</string>
     <string name="wallpaper_panel_invert">反转</string>
-    <string name="wallpaper_panel_bw">B/W</string>
+    <string name="wallpaper_panel_bw">黑/白</string>
     <string name="wallpaper_panel_blur">模糊</string>
     <string name="wallpaper_panel_original">原始</string>
 
@@ -83,111 +83,111 @@
     <string name="contributor_title">贡献者</string>
     <string name="libraries_title">库</string>
     <string name="about_title">关于</string>
-    <string name="about_message_one">Made by Alex Cruz, founder of</string>
-    <string name="about_message_two">Yet Another Wallpaper App is an app developed and designed from the ground up to provide users an easy and straight to the point way to apply some of the best wallpapers from around the Android community. No ads or complicated UI. Just great wallpapers and options!</string>
-    <string name="about_wallpaper_submission_message_one">We\'re always looking for contributors. We ask that new contributors start on</string>
-    <string name="about_wallpaper_submission_message_two">If you\'re wanting to contribute to existing categories, you can submit wallpapers through our IAR form.</string>
-    <string name="about_wallpaper_submission_message_three">If you\'re needing help generating a json for your wallpapers, you can check out the</string>
-    <string name="about_wallpaper_submission_message_four">Is quick and easy!</string>
+    <string name="about_message_one">由Alex Cruz制作, 是%s的创始人</string>
+    <string name="about_message_two">YAWPA(Yet Another Wallpaper App)是一款从头开始设计和开发的应用，为用户提供轻松直观的方式来应用一些Android社区周围最好的壁纸。没有广告和复杂的用户界面。只有很多的壁纸和选项。</string>
+    <string name="about_wallpaper_submission_message_one">我们一直在寻找贡献者。我们开始寻求新的贡献者。</string>
+    <string name="about_wallpaper_submission_message_two">如果你正想贡献到现有类别，你可以通过IAR上传.</string>
+    <string name="about_wallpaper_submission_message_three">如果你正需要帮助为你的壁纸生成一个JSON，你可以看看</string>
+    <string name="about_wallpaper_submission_message_four">方便快捷!</string>
 
     <!-- Settings -->
-    <string name="settings_title">Settings</string>
-    <string name="notifications_category_title">Notifications</string>
-    <string name="wallpaper_chooser_category_title">Wallpaper chooser</string>
-    <string name="qs_tile_category_title">QS tile</string>
-    <string name="version_title">Version</string>
-    <string name="version_not_available">not available</string>
-    <string name="grid_changer_title">Grid changer</string>
-    <string name="grid_changer_summary">Select how wallpapers are displayed</string>
-    <string name="grid_changer_one">1 portrait — 2 landscape</string>
-    <string name="grid_changer_two">2 portrait — 3 landscape</string>
-    <string name="grid_changer_three">3 portrait — 4 landscape</string>
-    <string name="thumbnail_quality_title">Thumbnail quality</string>
-    <string name="thumbnail_quality_summary">Select the quality of the thumbnails</string>
-    <string name="thumbnail_quality_low">Low</string>
-    <string name="thumbnail_quality_normal">Normal</string>
-    <string name="thumbnail_quality_high">High</string>
-    <string name="thumbnail_note">Loading wallpapers requires a internet connection. Unfornately for some, not all connections are created equal and that may cause wallpapers to load slowly. If your internet connection is slow then using low quality will make the thumbnails/previews to load quicker.</string>
-    <string name="notifications_title">Push notification</string>
-    <string name="notifications_summary">Quick and easy way to opt out of notifications</string>
-    <string name="notification_sound_title">Notification tone</string>
-    <string name="notification_sound_summary">Enable/disable the sound for new wallpaper notifications</string>
-    <string name="qs_filter_title">Filter</string>
-    <string name="qs_filter_summary">Select a filter for the wall you apply through the QS tile</string>
-    <string name="qs_filter_normal">Normal</string>
-    <string name="qs_filter_bw">Black/White</string>
-    <string name="qs_filter_inverted">Inverted</string>
-    <string name="qs_filter_blur">Blur</string>
-    <string name="qs_location_title">Location</string>
-    <string name="qs_location_summary">Select the location you wish to apply the wallpaper to</string>
-    <string name="qs_location_homescreen">Homscreen</string>
-    <string name="qs_location_lockscreen">Lockscreen</string>
-    <string name="qs_location_both">Both</string>
-    <string name="categories">Categories</string>
-    <string name="select_categories_title">Select categories</string>
-    <string name="select_categories_summary">Add or remove categories to display</string>
+    <string name="settings_title">设置</string>
+    <string name="notifications_category_title">通知</string>
+    <string name="wallpaper_chooser_category_title">壁纸选择器</string>
+    <string name="qs_tile_category_title">快速设置瓷块</string>
+    <string name="version_title">版本</string>
+    <string name="version_not_available">不存在</string>
+    <string name="grid_changer_title">网格变换器</string>
+    <string name="grid_changer_summary">选择壁纸的显示方式</string>
+    <string name="grid_changer_one">1 纵向 — 2 横向</string>
+    <string name="grid_changer_two">2 纵向 — 3 横向</string>
+    <string name="grid_changer_three">3 纵向 — 4 横向</string>
+    <string name="thumbnail_quality_title">缩略图质量</string>
+    <string name="thumbnail_quality_summary">选择缩略图质量</string>
+    <string name="thumbnail_quality_low">低</string>
+    <string name="thumbnail_quality_normal">中</string>
+    <string name="thumbnail_quality_high">高</string>
+    <string name="thumbnail_note">加载壁纸需要网络连接。对于一些人来说，不是所有的网络连接都是相等的，这可能导致壁纸加载缓慢。如果你的互联网连接速度缓慢，请把“缩略图质量”切换到“低”以快速加载缩略图和预览。</string>
+    <string name="notifications_title">推送通知</string>
+    <string name="notifications_summary">轻松快速地停用通知</string>
+    <string name="notification_sound_title">通知声</string>
+    <string name="notification_sound_summary">启用/禁用新壁纸的通知声</string>
+    <string name="qs_filter_title">过滤器</string>
+    <string name="qs_filter_summary">选择一个过滤器用于从快速设置从瓷块</string>
+    <string name="qs_filter_normal">正常</string>
+    <string name="qs_filter_bw">黑/白</string>
+    <string name="qs_filter_inverted">反转</string>
+    <string name="qs_filter_blur">模糊</string>
+    <string name="qs_location_title">位置</string>
+    <string name="qs_location_summary">选择你希望应用壁纸的位置</string>
+    <string name="qs_location_homescreen">主屏幕</string>
+    <string name="qs_location_lockscreen">锁屏</string>
+    <string name="qs_location_both">两者都要</string>
+    <string name="categories">分类</string>
+    <string name="select_categories_title">选择分类</string>
+    <string name="select_categories_summary">添加或删除显示的分类</string>
 
     <!-- Submit wallpapers -->
-    <string name="submit_wallpaper_button_title">Wallpaper submission</string>
-    <string name="submit_wallpaper_title">Submit wallpaper</string>
-    <string name="submit_wallpaper_hint_title">Your name</string>
-    <string name="send_email_title">Send email</string>
-    <string name="send_email_submitted_by">Wallpaper submitted by:</string>
-    <string name="send_email_wallpaper_category">Wallpaper category:</string>
-    <string name="pick_wallpaper_category">Pick a wallpaper category</string>
+    <string name="submit_wallpaper_button_title">壁纸提交</string>
+    <string name="submit_wallpaper_title">提交壁纸</string>
+    <string name="submit_wallpaper_hint_title">你的名字</string>
+    <string name="send_email_title">发送电子邮件</string>
+    <string name="send_email_submitted_by">壁纸提交者:</string>
+    <string name="send_email_wallpaper_category">壁纸类别:</string>
+    <string name="pick_wallpaper_category">选择一个分类</string>
 
     <!-- Dialogs -->
-    <string name="dialog_close">Close</string>
-    <string name="blur_level_title">Pick level of blur</string>
-    <string name="blur_light">Light</string>
-    <string name="blur_heavy">Heavy</string>
-    <string name="apply_wallpaper_title">Pick where to apply wallpaper</string>
-    <string name="apply_wallpaper_homescreen">Homescreen</string>
-    <string name="apply_wallpaper_lockscreen">Lockscreen</string>
-    <string name="apply_wallpaper_both">Both</string>
-    <string name="submit_wallpaper_dialog_title">Submission agreement</string>
-    <string name="submit_wallpaper_dialog_message_one">You agree that any material submitted by you for publication on this application, is done so on the following terms:</string>
-    <string name="submit_wallpaper_dialog_message_two">(i) you will not submit material that is offensive, abusive, indecent, defamatory, obscene;</string>
-    <string name="submit_wallpaper_dialog_message_three">(ii) you will not submit any material which infringes the intellectual property rights of any third party or in breach of any obligation of confidentiality by which you are bound - all material must be owned by or created by you;</string>
-    <string name="submit_wallpaper_dialog_message_four">(iii) we reserve the right not to publish the material submitted and to make additions or deletions to the material, prior to publication;</string>
-    <string name="submit_wallpaper_dialog_message_five">(iv) we reserve the right to remove and/or delete the Material submitted by you without notice;</string>
-    <string name="submit_wallpaper_dialog_deny">Nevermind</string>
-    <string name="submit_wallpaper_dialog_approve">I agree to these terms</string>
+    <string name="dialog_close">关闭</string>
+    <string name="blur_level_title">选择模糊级别</string>
+    <string name="blur_light">轻</string>
+    <string name="blur_heavy">重</string>
+    <string name="apply_wallpaper_title">选择何处应用壁纸</string>
+    <string name="apply_wallpaper_homescreen">主屏幕</string>
+    <string name="apply_wallpaper_lockscreen">锁屏</string>
+    <string name="apply_wallpaper_both">都要</string>
+    <string name="submit_wallpaper_dialog_title">提交壁纸的协议</string>
+    <string name="submit_wallpaper_dialog_message_one">您同意，你提交的任何材料在本应用中发布, 将按照以下条款完成:</string>
+    <string name="submit_wallpaper_dialog_message_two">(一) 您将不会提交带有攻击性，滥用性，不雅的，诽谤，淫秽的材料;</string>
+    <string name="submit_wallpaper_dialog_message_three">(二)您将不会提交涉及侵犯任何第三方知识产权或违反你所受约束的保密义务——所有材料必须由您创建或您所拥有;</string>
+    <string name="submit_wallpaper_dialog_message_four">(三) 我们将保留在出版之前不发布所提交资料的权利，并对该材料进行添加或删除;</string>
+    <string name="submit_wallpaper_dialog_message_five">(四) 我们将保留在不通知您的情况下移除或/和删除您所提交的材料;</string>
+    <string name="submit_wallpaper_dialog_deny">不同意</string>
+    <string name="submit_wallpaper_dialog_approve">我同意这些条款</string>
 
     <!-- Snackbar messages -->
-    <string name="no_connection">Please check your internet connection</string>
-    <string name="please_wait">Please wait…</string>
-    <string name="downloading_wallpaper">Downloading…</string>
-    <string name="preparing_wallpaper">Preparing wallpaper</string>
-    <string name="applying_wallpaper">Applying wallpaper…</string>
-    <string name="saved_wallpaper">Saved wallpaper! Enjoy!</string>
-    <string name="applied_wallpaper">Applied wallpaper! Enjoy!</string>
-    <string name="applied_solid_color_wallpaper">Solid color set as wallpaper! Enjoy!</string>
-    <string name="no_browser_installed">Can not launch this intent. Please install a browser.</string>
-    <string name="fill_out_all_fields">Please fill out all fields correctly</string>
-    <string name="cancelling">Cancelling…</string>
-    <string name="folder_created">Folder \'YAWPA\' created</string>
-    <string name="push_notifications_no_gms">Push notifications turned off due to Google services not installed.</string>
-    <string name="push_notifications_no_gms_dismiss">Dismiss</string>
+    <string name="no_connection">请检查您的互联网连接</string>
+    <string name="please_wait">请稍候…</string>
+    <string name="downloading_wallpaper">下载中…</string>
+    <string name="preparing_wallpaper">正在准备壁纸</string>
+    <string name="applying_wallpaper">正在应用壁纸…</string>
+    <string name="saved_wallpaper">壁纸已保存! 尽情享用吧!</string>
+    <string name="applied_wallpaper">壁纸已提交! 尽情享用吧!</string>
+    <string name="applied_solid_color_wallpaper">纯色已设成壁纸! 尽情享用吧!</string>
+    <string name="no_browser_installed">没法运行这个请求. 请安装一个浏览器.</string>
+    <string name="fill_out_all_fields">请正确填写这些字段</string>
+    <string name="cancelling">取消中…</string>
+    <string name="folder_created">文件夹 \'YAWPA\' 已创建</string>
+    <string name="push_notifications_no_gms">由于谷歌服务没有安装推送通知已关闭.</string>
+    <string name="push_notifications_no_gms_dismiss">解除</string>
 
     <!-- Wallpaper hints -->
-    <string name="bw_hint_title">Turn your wallpaper black and white!</string>
-    <string name="bw_hint_summary">No need to install an extra app for this, just click and profit!</string>
-    <string name="blur_hint_title">Blur your wallpaper</string>
-    <string name="blur_hint_summary">No need to install an extra app for this, just click and profit!</string>
-    <string name="save_hint_title">Save your wallpaper</string>
-    <string name="save_hint_summary">No worries, we don\'t care if you share our wallpapers with friends :-)</string>
-    <string name="apply_hint_title">Apply your wallpaper</string>
-    <string name="apply_hint_summary">Apply the original wallpaper with precision!</string>
-    <string name="invert_hint_title">Invert your wallpaper</string>
-    <string name="invert_hint_summary">Invert your wallpaper for that weird look!</string>
+    <string name="bw_hint_title">将你的壁纸变成黑色和白色!</string>
+    <string name="bw_hint_summary">这个功能无需安装额外应用，只需点击和使用!</string>
+    <string name="blur_hint_title">模糊你的壁纸</string>
+    <string name="blur_hint_summary">这个功能无需安装额外应用，只需点击和使用!</string>
+    <string name="save_hint_title">保存你的壁纸</string>
+    <string name="save_hint_summary">不用担心, 如果你分享壁纸给朋友们，我们不会在意。:-)</string>
+    <string name="apply_hint_title">应用你的壁纸</string>
+    <string name="apply_hint_summary">准确应用原始壁纸</string>
+    <string name="invert_hint_title">反转你的壁纸</string>
+    <string name="invert_hint_summary">反转你的壁纸，让它看起来怪异点!</string>
 
     <!-- No connection screen -->
-    <string name="no_connection_title">Oops, problem connecting</string>
-    <string name="no_connection_summary">Please check if you are online</string>
+    <string name="no_connection_title">糟糕，遇到连接问题</string>
+    <string name="no_connection_summary">请检查是否在线</string>
 
     <!-- Empty screen -->
-    <string name="empty_screen_title">All categories were removed</string>
-    <string name="empty_screen_summary">Head to settings to add a few</string>
+    <string name="empty_screen_title">所有分类已被删除</string>
+    <string name="empty_screen_summary">前往设置去添加一些</string>
 
 </resources>
